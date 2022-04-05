@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T07:04:10.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" version="17.4.0" etag="oDtRVv4aa6Sund9LGbuE" type="github"><diagram id="AGHcNNIlLRduhP4pSSiV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-05T07:23:54.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="aml3odO_m4GH7FUm1CiT" version="17.4.0" type="github">
+  <diagram id="AGHcNNIlLRduhP4pSSiV" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ruXiJLxPYE9Ygrdqcgj--9" value="DB" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="354" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ruXiJLxPYE9Ygrdqcgj--6" value="혼잡도" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="648" y="510" width="104" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="ruXiJLxPYE9Ygrdqcgj--5" value="예약" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="620" y="130" width="124" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="ruXiJLxPYE9Ygrdqcgj--15" value="예약 코드 전송" style="endArrow=classic;html=1;rounded=0;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="240" as="sourcePoint" />
+            <mxPoint x="490" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
