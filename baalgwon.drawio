@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-10T08:10:16.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="uTAuZsgx2ohzWUKT1bnp" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-10T08:11:31.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="D5c9xapuhnYy0tGhq8HH" version="17.4.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1483" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
         <mxCell id="gFQcucEWS_bXOnacTtc2-19" value="예약 인원수에 따라 코드에 &lt;br&gt;적용" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="650" y="485" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gFQcucEWS_bXOnacTtc2-20" value="최종적인 예약 번호 : A123" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="gFQcucEWS_bXOnacTtc2-20" value="최종적인 예약 번호 : Axy3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="332.5" y="860" width="265" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gFQcucEWS_bXOnacTtc2-23" value="고유코드를 합쳐 &lt;br&gt;예약번호를 만든다" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -79,7 +79,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gFQcucEWS_bXOnacTtc2-28" value="12번 좌석 예약 =&amp;gt; 번호 코드(좌표평면 x, y값)" style="endArrow=classic;html=1;rounded=0;fontSize=17;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFQcucEWS_bXOnacTtc2-11" target="gFQcucEWS_bXOnacTtc2-23" edge="1">
+        <mxCell id="gFQcucEWS_bXOnacTtc2-28" value="좌석 예약 =&amp;gt; 번호 코드(좌표평면 x, y값)" style="endArrow=classic;html=1;rounded=0;fontSize=17;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gFQcucEWS_bXOnacTtc2-11" target="gFQcucEWS_bXOnacTtc2-23" edge="1">
           <mxGeometry x="0.0769" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="700" as="sourcePoint" />
             <mxPoint x="440" y="650" as="targetPoint" />
