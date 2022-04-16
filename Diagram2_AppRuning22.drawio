@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T09:42:04.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="2w7IbUZ1E0J84wxC1EMy" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-16T09:47:13.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="3hrQndxpar5dBKY4QGF3" version="17.4.5" type="github">
   <diagram id="OXkIRa2-YY4k-pXQrkS8" name="Page-1">
-    <mxGraphModel dx="1887" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="343" dy="191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Mc_krjjgkNhKQVEosxgI-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Diagram 2&lt;/span&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;앱 구동&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="70" y="55" width="100" height="50" as="geometry" />
+        <mxCell id="Mc_krjjgkNhKQVEosxgI-1" value="&lt;font style=&quot;font-size: 26px&quot;&gt;&lt;span&gt;Diagram 2&lt;/span&gt;&lt;br&gt;앱 구동&lt;br style=&quot;font-size: 17px&quot;&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="50" y="55" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mc_krjjgkNhKQVEosxgI-2" value="앱 메인화면" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="490" y="180" width="110" height="50" as="geometry" />
@@ -86,8 +86,8 @@
             <mxPoint x="603.33" y="1279.69" as="sourcePoint" />
             <mxPoint x="653.33" y="1229.69" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="545" y="1269.69" />
-              <mxPoint x="650" y="1269.69" />
+              <mxPoint x="545" y="1260" />
+              <mxPoint x="650" y="1260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -170,12 +170,12 @@
             <mxPoint x="554.9972368421052" y="1201.69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3q4-ErVGuZIJLskHHzQT-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;exitX=-0.005;exitY=0.558;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitPerimeter=0;fontStyle=1;strokeWidth=2;" parent="1" source="Mc_krjjgkNhKQVEosxgI-43" target="Mc_krjjgkNhKQVEosxgI-2" edge="1">
+        <mxCell id="3q4-ErVGuZIJLskHHzQT-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontStyle=1;strokeWidth=2;" parent="1" source="Mc_krjjgkNhKQVEosxgI-43" target="Mc_krjjgkNhKQVEosxgI-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="729.69" as="sourcePoint" />
             <mxPoint x="500" y="215" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="70" y="1433" />
+              <mxPoint x="70" y="1450" />
               <mxPoint x="70" y="205" />
             </Array>
           </mxGeometry>
@@ -243,17 +243,18 @@
         <mxCell id="HhNQKhSK0bE4_6mPql5p-4" value="좌석 고유의 &lt;br style=&quot;font-size: 17px;&quot;&gt;번호 코드 &lt;br style=&quot;font-size: 17px;&quot;&gt;적용한다" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="680.99" y="555" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HhNQKhSK0bE4_6mPql5p-5" value="예시&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="HhNQKhSK0bE4_6mPql5p-5" value="&lt;i&gt;예시&amp;nbsp;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="180" y="760.0000000000001" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HhNQKhSK0bE4_6mPql5p-6" value="예약 인원수 정보" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=2;" parent="1" source="HhNQKhSK0bE4_6mPql5p-10" target="HhNQKhSK0bE4_6mPql5p-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="0.3489" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="622.19" y="405.36" as="sourcePoint" />
             <mxPoint x="740.99" y="480" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HhNQKhSK0bE4_6mPql5p-7" value="예약 인원수에 따라 코드에 &lt;br style=&quot;font-size: 17px;&quot;&gt;적용" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="420.99" y="625" width="130" height="70" as="geometry" />
+          <mxGeometry x="480.99" y="650" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HhNQKhSK0bE4_6mPql5p-9" value="고유코드를 합쳐 &lt;br style=&quot;font-size: 17px;&quot;&gt;예약번호를 만든다" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="470.99" y="850" width="150" height="60" as="geometry" />
@@ -272,7 +273,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HhNQKhSK0bE4_6mPql5p-12" value="좌석 예약 =&amp;gt; 번호 코드(좌표평면 x, y값)" style="endArrow=classic;html=1;rounded=0;fontSize=17;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;strokeWidth=2;" parent="1" source="HhNQKhSK0bE4_6mPql5p-4" target="HhNQKhSK0bE4_6mPql5p-9" edge="1">
+        <mxCell id="HhNQKhSK0bE4_6mPql5p-12" value="좌석 예약 =&amp;gt; 번호 코드(각각의 좌표평면 x, y값)" style="endArrow=classic;html=1;rounded=0;fontSize=17;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;strokeWidth=2;" parent="1" source="HhNQKhSK0bE4_6mPql5p-4" target="HhNQKhSK0bE4_6mPql5p-9" edge="1">
           <mxGeometry x="-0.12" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="545.99" y="740" as="sourcePoint" />
             <mxPoint x="520.99" y="690" as="targetPoint" />
@@ -283,14 +284,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HhNQKhSK0bE4_6mPql5p-13" value="3명 예약시 =&amp;gt; 3" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;strokeWidth=2;" parent="1" source="HhNQKhSK0bE4_6mPql5p-7" target="HhNQKhSK0bE4_6mPql5p-9" edge="1">
-          <mxGeometry x="0.1176" y="5" width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="-0.5385" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470.99" y="800" as="sourcePoint" />
             <mxPoint x="520.99" y="750" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="486" y="780" />
-              <mxPoint x="486" y="780" />
+              <mxPoint x="546" y="750" />
+              <mxPoint x="546" y="750" />
             </Array>
-            <mxPoint y="1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3q4-ErVGuZIJLskHHzQT-7" value="개인 정보 동의" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontSize=17;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
