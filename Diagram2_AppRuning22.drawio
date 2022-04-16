@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T09:48:42.446Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="PF6d_UZO9rDBmOZA2Qe6" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-16T10:44:47.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="zVXMfs-klxyrB7bN0I58" version="17.4.5" type="github">
   <diagram id="OXkIRa2-YY4k-pXQrkS8" name="Page-1">
-    <mxGraphModel dx="2031" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2844" dy="1474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,10 +113,13 @@
             <mxPoint x="6" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mc_krjjgkNhKQVEosxgI-38" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.501;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;fontStyle=1;strokeWidth=2;" parent="1" source="Mc_krjjgkNhKQVEosxgI-27" edge="1">
+        <mxCell id="Mc_krjjgkNhKQVEosxgI-38" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0.501;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;fontStyle=1;strokeWidth=2;" parent="1" source="Mc_krjjgkNhKQVEosxgI-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="1379.69" as="sourcePoint" />
-            <mxPoint x="650" y="1529.69" as="targetPoint" />
+            <mxPoint x="800" y="1430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="1372" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Mc_krjjgkNhKQVEosxgI-40" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontStyle=1" parent="Mc_krjjgkNhKQVEosxgI-38" vertex="1" connectable="0">
@@ -162,12 +165,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3q4-ErVGuZIJLskHHzQT-10" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;labelBackgroundColor=#ffffff;fontSize=17;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="635" y="1620" width="30" height="30" as="geometry" />
+          <mxGeometry x="785" y="1520" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3q4-ErVGuZIJLskHHzQT-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=2;" parent="1" target="3q4-ErVGuZIJLskHHzQT-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="1589.69" as="sourcePoint" />
-            <mxPoint x="554.9972368421052" y="1201.69" as="targetPoint" />
+            <mxPoint x="800" y="1489.69" as="sourcePoint" />
+            <mxPoint x="704.9972368421052" y="1101.69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3q4-ErVGuZIJLskHHzQT-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=17;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontStyle=1;strokeWidth=2;" parent="1" source="Mc_krjjgkNhKQVEosxgI-43" target="Mc_krjjgkNhKQVEosxgI-2" edge="1">
@@ -181,7 +184,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3q4-ErVGuZIJLskHHzQT-13" value="예약 완료&lt;br style=&quot;font-size: 17px;&quot;&gt;메시지 출력" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fontSize=17;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="590" y="1530" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mVvzNJm-mHIIu-5cLUpC-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=17;strokeWidth=2;" parent="1" source="mVvzNJm-mHIIu-5cLUpC-2" target="mVvzNJm-mHIIu-5cLUpC-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -217,7 +220,7 @@
           <mxGeometry x="725" y="1316.69" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HhNQKhSK0bE4_6mPql5p-1" value="시간에 따라 &lt;br style=&quot;font-size: 17px;&quot;&gt;부여된 고유의&lt;br style=&quot;font-size: 17px;&quot;&gt;코드를 적용한다" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="270.99" y="530" width="130" height="70" as="geometry" />
+          <mxGeometry x="270" y="530" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HhNQKhSK0bE4_6mPql5p-2" value="예약된 시간 정보" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0;exitY=0;exitDx=0;exitDy=0;fontStyle=1;strokeWidth=2;" parent="1" source="HhNQKhSK0bE4_6mPql5p-10" edge="1">
           <mxGeometry x="0.484" width="50" height="50" relative="1" as="geometry">
