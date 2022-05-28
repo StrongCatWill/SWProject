@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T07:38:41.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="cIDEsjR1T09TNFyq-nqf" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-28T17:09:19.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="Gu8g7Sry2kN5orRWGvDd" version="18.1.3" type="github">
   <diagram id="gJ_Iu8lngB_U79dhqHV0" name="Page-2">
     <mxGraphModel dx="2407" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
         <mxCell id="SBTvvYWczZ_t-JTaceUK-31" value="&lt;b&gt;3명&lt;br&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;좌석선택&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=4;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="450" y="1060" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ORqExMhPNQeGlCGmkkDJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=oval;startFill=1;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;endArrow=oval;endFill=1;" edge="1" parent="1" source="SBTvvYWczZ_t-JTaceUK-33" target="ORqExMhPNQeGlCGmkkDJ-3">
+        <mxCell id="ORqExMhPNQeGlCGmkkDJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=oval;startFill=1;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;endArrow=oval;endFill=1;" parent="1" source="SBTvvYWczZ_t-JTaceUK-33" target="ORqExMhPNQeGlCGmkkDJ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SBTvvYWczZ_t-JTaceUK-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;예약 번호 출력&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;rounded=0;strokeWidth=3;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -281,7 +281,7 @@
           <mxGeometry x="630" y="40" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SBTvvYWczZ_t-JTaceUK-77" value="&lt;h1 style=&quot;font-size: 37px;&quot;&gt;&lt;font style=&quot;font-size: 37px;&quot;&gt;yeab_app FlowChart2.0.5&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 37px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="7.5" y="10" width="286" height="110" as="geometry" />
+          <mxGeometry x="5" y="30" width="286" height="110" as="geometry" />
         </mxCell>
         <mxCell id="SBTvvYWczZ_t-JTaceUK-78" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="630" y="200" width="60" height="30" as="geometry" />
@@ -380,13 +380,13 @@
         <mxCell id="SBTvvYWczZ_t-JTaceUK-100" value="2명" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontStyle=1" parent="1" vertex="1" connectable="0">
           <mxGeometry x="320.00476190476195" y="1020" as="geometry" />
         </mxCell>
-        <mxCell id="ORqExMhPNQeGlCGmkkDJ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeWidth=4;" edge="1" parent="1">
+        <mxCell id="ORqExMhPNQeGlCGmkkDJ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeWidth=4;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="490" as="sourcePoint" />
             <mxPoint x="320" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ORqExMhPNQeGlCGmkkDJ-3" value="&lt;b style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;1명 좌석 선택 창에서 예약 번호 출력함.&lt;br&gt;3명 선택시 (3,2,1 선택창 순서로 이동)&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="ORqExMhPNQeGlCGmkkDJ-3" value="&lt;b style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;1명 좌석 선택 창에서 예약 번호 출력함.&lt;br&gt;3명 선택시 (3,2,1 선택창 순서로 이동)&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-110" y="1240" width="290" height="70" as="geometry" />
         </mxCell>
       </root>
